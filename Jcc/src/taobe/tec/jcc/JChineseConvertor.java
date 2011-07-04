@@ -25,8 +25,8 @@ import java.util.Map;
 
 /**
  * A tool convert Traditional Chinese character to Simplified or vice versa. The conversion is base on Unicode,
- * it means that if the character source is other encoding (e.g. gbk or gb2313) have to convert to Unicode before performing
- * conversion 
+ * it means that if the character source is other encoding (e.g. gbk or gb2313) have to convert to Unicode 
+ * before performing conversion 
  * 
  * @author Joe Choi
  */
