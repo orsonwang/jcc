@@ -1,0 +1,13 @@
+﻿=== 简介 ===
+
+Jcc 是一个小巧的「繁简字体转换」程式库。这程式库使用 Java 编写而成，若你正寻找现成可用的程式库，为你的 Java 应用程式添加「繁简转换」功能，这正是你所需要的。
+
+若你使用的是 Java 以外的语言，也可直接下载「源代码」。「源代码」包含了「繁简转换表」；是一个使用 "UTF-8" 编码的「文字档案」，可以被其他应用程式或程式码直接读取。
+
+Jcc 使用的「繁简转换表」包含了 GB2312 所定义的第一及第二级共 6703 个汉字。
+
+=== 使用说明 ===
+* [http://jcc.googlecode.com/svn/trunk/Jcc/doc/index.html JavaDoc]
+
+=== 下载 ===
+* [http://code.google.com/p/jcc/downloads/detail?name=jcc-bate-0.7.3.jar&can=2&q=#makechanges Jcc-Beta-0.7.3]
